@@ -1,0 +1,1 @@
+id_klienta, familyia, imya, otchestvo, telefon, data_rozhdeniya, pol, adres
