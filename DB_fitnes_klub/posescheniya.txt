@@ -1,0 +1,1 @@
+id_posescheniya, id_klienta, id_trenirovki, data_posescheniya, otmetka
