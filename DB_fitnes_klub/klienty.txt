@@ -1,1 +1,2 @@
 id_klienta, familyia, imya, otchestvo, telefon, data_rozhdeniya, pol, adres
+1, Ivanov, Petr, Sergeevich, 89161234567, 12.05.1990, M, g. Moskva ul. Lesnaya d. 5
