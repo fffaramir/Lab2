@@ -1,0 +1,1 @@
+id_trenirovki, id_trenera, nazvanie, data_provedeniya, vremya_nachala, dlitelnost, mesto_provedeniya
