@@ -1,0 +1,1 @@
+id_trenera, familyia, imya, specializaciya, telefon, stazh
