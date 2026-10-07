@@ -1,0 +1,1 @@
+id_abonementa, id_klienta, vid_abonementa, data_nachala, data_okonchaniya, stoimost, status
